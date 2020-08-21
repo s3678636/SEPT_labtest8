@@ -1,5 +1,6 @@
 language: java
 dist: trusty
+dist: precise
 jdk:
 - openjdk10
 - openjdk11
