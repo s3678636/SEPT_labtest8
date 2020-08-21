@@ -1,4 +1,6 @@
-dist: trusty
+dist: 
+- trusty
+- precise
 language: java
 jdk:
 - openjdk10
